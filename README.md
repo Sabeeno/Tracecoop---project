@@ -1,3 +1,26 @@
-# Tracecoop---project
-An example for Front end and back end of a Tracecoop project
-In the fabcar directory you can find the complete Example. This example is tested for a project. Hope is really usefull for you
+## Open the terminal in server
+```
+cd web-app/server
+```
+
+## Create wallet
+```
+node ./enrollAdmin.js
+```
+```
+node ./registerUser.js
+```
+
+## Run the server application
+```
+npm start
+```
+## Open another terminal in client
+```
+cd web-app/client
+```
+
+## Run the client application
+```
+npm run serve
+```

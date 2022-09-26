@@ -1,0 +1,9 @@
+{
+    "connection_file": "Org2MSP_profile.json",
+    "appAdmin": "app-admin",
+    "appAdminSecret": "app-adminpw",
+    "orgMSPID": "Org2MSP",
+    "caName": "https://169.51.205.52:30061",
+    "userName": "user",
+    "gatewayDiscovery": {"enabled": true, "asLocalhost": false}
+}
